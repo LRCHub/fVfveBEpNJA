@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Poetry",
+  "base_artist": "yrmare",
+  "createdAt": "2026-03-20T07:15:03.377714Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Your Shopping Lists Are Poetry",
+      "artist": "Mint",
+      "has_synced": true,
+      "path": "select/01_Your_Shopping_Lists_Are_Poetry_Mint.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Iambic 9 Poetry",
+      "artist": "Squarepusher",
+      "has_synced": false,
+      "path": "select/02_Iambic_9_Poetry_Squarepusher.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Champagne Poetry",
+      "artist": "Drake",
+      "has_synced": false,
+      "path": "select/03_Champagne_Poetry_Drake.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Poetry (feat. Suli Breaks)",
+      "artist": "Faithless",
+      "has_synced": false,
+      "path": "select/04_Poetry_(feat._Suli_Breaks)_Faithless.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Poetry",
+      "artist": "Faithless",
+      "has_synced": false,
+      "path": "select/05_Poetry_Faithless.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Poetry In Motion",
+      "artist": "La Bouche",
+      "has_synced": true,
+      "path": "select/06_Poetry_In_Motion_La_Bouche.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pagan Poetry",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/07_Pagan_Poetry_Björk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pagan Poetry",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/08_Pagan_Poetry_Björk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pagan Poetry",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/09_Pagan_Poetry_Björk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pagan poetry (Matthew Herbert handshake mix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/10_Pagan_poetry_(Matthew_Herbert_handshake_mix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pagan Poetry (Music Box Instrumental)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/11_Pagan_Poetry_(Music_Box_Instrumental)_Björk.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pagan Poetry (Music Box)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/12_Pagan_Poetry_(Music_Box)_Björk.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pagan poetry (video edit)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/13_Pagan_poetry_(video_edit)_Björk.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Poetry in the Streets",
+      "artist": "Necro feat. Ill Bill",
+      "has_synced": true,
+      "path": "select/14_Poetry_in_the_Streets_Necro_feat._Ill_Bill.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Poetry (feat. Remo)",
+      "artist": "yrmare",
+      "has_synced": false,
+      "path": "select/pl_01_Poetry_(feat._Remo)_yrmare.txt"
+    }
+  ]
+}
